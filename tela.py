@@ -92,7 +92,7 @@ def tela_opcoes_bancarias():
 
         opcao=input("Digite a opcao desejada:")
 
-        opcoes=["1","2","3","4","5"]
+        opcoes=("1","2","3","4","5")
 
         if opcao not in opcoes:
 
